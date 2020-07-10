@@ -24,3 +24,5 @@
 |Ramicane	|40.216745	|40.673236	|23.486704	|4.846308	|0.320955
 |Stelasyn	|54.233149	|52.431737	|59.450562	|7.710419	|0.573111
 |Zoniferol	|53.236507	|51.818479	|48.533355	|6.966589	|0.516398
+
+![MatPlotLib-Challenge](https://github.com/cyffer/MatPlotLib-Challenge/blob/master/matplotgraph.jpg)
